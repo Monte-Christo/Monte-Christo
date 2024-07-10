@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monte-Christo
 - 👀 I’m interested in Distributed Systems, This inclides all things Cloud, specifically Azure, DDD, and Event-Driven Architectures
-- 🌱 I’m currently learning GitOps, Kubernetes, and MongoDB Atlas
+- 🌱 I’m currently learning Leadership, management, and Contract Testing
 - 📫 You can reach me at edkn@simcorp.com
 
 <!---
